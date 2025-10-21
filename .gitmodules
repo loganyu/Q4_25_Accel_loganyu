@@ -4,3 +4,6 @@
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
 	url = git@github.com:loganyu/escrow-litesvm
+[submodule "ephemeral-rollup"]
+	path = ephemeral-rollup
+	url = git@github.com:loganyu/ephemeral-rollup.git
